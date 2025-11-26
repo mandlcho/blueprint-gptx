@@ -1,0 +1,5 @@
+{
+  "name": "blueprint-vibe",
+  "description": "An AI-powered Unreal Engine 5 Blueprint generator. Describe your logic in plain English, and watch Gemini construct the visual node graph, referencing Epic's documentation where needed.",
+  "requestFramePermissions": []
+}
